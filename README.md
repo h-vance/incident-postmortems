@@ -19,3 +19,10 @@ Each postmortem follows a standard, blame-free, and production-oriented structur
 ## Methodology
 
 These reports reflect an engineering culture that values transparency, learning from failure, and building resilient systems through iterative improvement.
+
+## Postmortem Workflow
+
+1. **Initial Draft**: SRE/On-call engineer drafts the postmortem within 24 hours of resolution.
+2. **Review**: Peer review for technical accuracy and blame-free tone.
+3. **Publication**: Shared internally to engineering teams.
+4. **Action Tracking**: Prevention items are moved to the engineering backlog.
