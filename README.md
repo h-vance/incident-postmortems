@@ -2,11 +2,11 @@
 
 A collection of detailed incident postmortems documenting real-world infrastructure and application failures. This repository demonstrates a professional, evidence-based approach to analyzing outages, identifying root causes, and implementing preventative measures to improve system reliability.
 
-[![SRE](https://img.shields.io/badge/SRE-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-[![Postmortems](https://img.shields.io/badge/Postmortems-orange?style=for-the-badge)](https://en.wikipedia.org/wiki/Post-mortem_documentation)
-[![RCA](https://img.shields.io/badge/Root_Cause_Analysis-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Root_cause_analysis)
-[![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge)](https://en.wikipedia.org/wiki/DevOps)
-[![Incident Management](https://img.shields.io/badge/Incident_Management-gray?style=for-the-badge)](https://en.wikipedia.org/wiki/Incident_management)
+[![SRE](https://img.shields.io/badge/SRE-blue?style=for-the-badge&logo=pagerduty&logoColor=white)](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+[![Postmortems](https://img.shields.io/badge/Postmortems-orange?style=for-the-badge&logo=confluence&logoColor=white)](https://en.wikipedia.org/wiki/Post-mortem_documentation)
+[![RCA](https://img.shields.io/badge/Root_Cause_Analysis-red?style=for-the-badge&logo=rca&logoColor=white)](https://en.wikipedia.org/wiki/Root_cause_analysis)
+[![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
+[![Incident Management](https://img.shields.io/badge/Incident_Management-gray?style=for-the-badge&logo=pagerduty&logoColor=white)](https://en.wikipedia.org/wiki/Incident_management)
 
 ## Purpose and Philosophy
 
