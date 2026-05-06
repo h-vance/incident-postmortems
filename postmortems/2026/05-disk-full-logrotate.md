@@ -1,7 +1,7 @@
 # Postmortem: Disk Space Exhaustion (Root Partition)
 
 **Date**: 2026-03-05  
-**Authors**: harrison-vc  
+**Authors**: h-vance  
 **Status**: Resolved  
 
 ## Summary

@@ -1,7 +1,7 @@
 # Postmortem: Database Connection Exhaustion (RDS)
 
 **Date**: 2026-02-15  
-**Authors**: harrison-vc  
+**Authors**: h-vance  
 **Status**: Resolved  
 
 ## Summary

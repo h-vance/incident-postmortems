@@ -1,7 +1,7 @@
 # Postmortem: Security Group Ingress Omission (HTTPS Outage)
 
 **Date**: 2026-04-12  
-**Authors**: harrison-vc  
+**Authors**: h-vance  
 **Status**: Resolved  
 
 ## Summary

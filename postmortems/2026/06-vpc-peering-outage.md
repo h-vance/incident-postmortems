@@ -1,7 +1,7 @@
 # Postmortem: Inter-Region VPC Peering Outage
 
 **Date**: 2026-04-15  
-**Authors**: harrison-vc  
+**Authors**: h-vance  
 **Status**: Resolved  
 
 ## Summary
