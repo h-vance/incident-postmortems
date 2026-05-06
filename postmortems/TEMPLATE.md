@@ -29,7 +29,7 @@
 ## Contributing Factors
 [Environmental or process issues that exacerbated the incident.]
 
-## Resolution
+## Resolution & Verification
 [Steps taken to restore normal service.]
 
 ## Prevention
