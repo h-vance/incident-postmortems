@@ -11,7 +11,7 @@ Each postmortem follows a standard, blame-free, and production-oriented structur
 - **Summary**: High-level overview of the incident.
 - **Impact**: Quantified effect on customers and systems.
 - **Timeline**: Chronological sequence of events from detection to resolution.
-- **Detection**: How the incident was identified (e.g., monitor, alert, customer report).
+- **Detection**: How the incident was identified (e.g., monitor, alert, observability alert).
 - **Root Cause**: The underlying technical failure mechanism.
 - **Contributing Factors**: Environmental or process issues that exacerbated the incident.
 - **Resolution**: Steps taken to restore normal service.

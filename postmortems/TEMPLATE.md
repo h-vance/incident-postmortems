@@ -9,19 +9,19 @@
 
 ## Impact
 - **Service Affected**: [e.g., Public API, Database]
-- **Customers Impacted**: [e.g., ~2,000 users, specific region]
+- **Stakeholders Impacted**: [e.g., ~2,000 users, specific region]
 - **Error Rate**: [e.g., 5% 5xx errors]
 - **Duration**: [e.g., 45 minutes]
 
 ## Timeline
-- **[Time] UTC**: Incident detected via [Alert/Customer Report].
+- **[Time] UTC**: Incident detected via [Alert/Observability Alert].
 - **[Time] UTC**: Initial investigation started.
 - **[Time] UTC**: Root cause identified.
 - **[Time] UTC**: Mitigation applied.
 - **[Time] UTC**: Service fully restored.
 
 ## Detection
-[How was the incident identified? Monitor, alert, customer report?]
+[How was the incident identified? Monitor, alert, observability alert?]
 
 ## Root Cause
 [The underlying technical failure mechanism.]
