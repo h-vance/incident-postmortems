@@ -9,7 +9,7 @@ A collection of structured postmortems from production incidents, written using 
 ## Postmortems
 
 | # | Incident | File |
-|---|----------|------|
+| --- | ---------- | ------ |
 | 01 | API Gateway Timeout | `postmortems/2026/01-api-gateway-timeout.md` |
 | 02 | IAM Misconfiguration — S3 Access | `postmortems/2026/02-iam-misconfig-s3.md` |
 | 03 | Database Connection Exhaustion | `postmortems/2026/03-database-conn-exhaustion.md` |
@@ -23,7 +23,7 @@ Use [`postmortems/TEMPLATE.md`](postmortems/TEMPLATE.md) when writing new postmo
 
 ## Structure
 
-```
+```text
 .
 ├── postmortems/
 │   ├── 2026/
@@ -40,4 +40,4 @@ Use [`postmortems/TEMPLATE.md`](postmortems/TEMPLATE.md) when writing new postmo
 ```
 
 ---
-*Maintained by Harrison Vance — Technical Support & Operations*
+Maintained by Harrison Vance — Technical Support & Operations
