@@ -2,6 +2,8 @@
 
 > **Blameless post-incident review documentation following industry-standard RCA formats.**
 
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)](https://daringfireball.net/projects/markdown/)
+
 ## Overview
 
 A collection of structured postmortems from production incidents, written using a consistent template. Each report documents the timeline, root cause, contributing factors, and actionable follow-ups to prevent recurrence.
