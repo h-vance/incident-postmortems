@@ -2,7 +2,7 @@
 
 > **Blameless post-incident review documentation following industry-standard RCA formats.**
 
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)](https://daringfireball.net/projects/markdown/)
+[![Markdown](https://www.shieldcn.dev/badge/Markdown-000000.svg?variant=default&logo=Markdown&logoColor=FFFFFF&size=xs)](https://daringfireball.net/projects/markdown/)
 
 ## Overview
 
