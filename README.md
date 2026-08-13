@@ -37,8 +37,7 @@ Use [`postmortems/TEMPLATE.md`](postmortems/TEMPLATE.md) when writing new postmo
 │   │   └── 06-vpc-peering-outage.md
 │   └── TEMPLATE.md
 └── docs/
-    ├── Incident_Response_Lifecycle.md
-    └── maintenance.log
+    └── Incident_Response_Lifecycle.md
 ```
 
 ---
